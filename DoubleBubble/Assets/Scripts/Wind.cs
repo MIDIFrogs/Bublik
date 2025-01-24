@@ -10,5 +10,9 @@ public class Wind : MonoBehaviour
     {
         Debug.Log("Collision detected");
         collision.GetComponent<Rigidbody2D>().AddForceAtPosition(transform.up * power, collision.ClosestPoint(transform.position));
+        if (collision.TryGetComponent<Ball>(out var ball))
+        {
+            ball.Increase();
+        }
     }
 }

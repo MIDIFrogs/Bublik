@@ -7,10 +7,8 @@ public class AimingHandler : MonoBehaviour
     [SerializeField] private Transform anchor;
 
     private bool isPressing;
-    private Vector3 localBeginLocation;
+    private Vector3 beginLocation;
     private GameObject arrow;
-
-    public Vector3 BeginLocation => localBeginLocation + anchor.transform.position;
 
     private void FixedUpdate()
     {
@@ -22,8 +20,8 @@ public class AimingHandler : MonoBehaviour
             Debug.Log("Pointer down");
 
             isPressing = true;
-            localBeginLocation = location - anchor.transform.position;
-            arrow = Instantiate(arrowPrefab, BeginLocation, Quaternion.identity);
+            beginLocation = location;
+            arrow = Instantiate(arrowPrefab, beginLocation, Quaternion.identity);
         }
         else if (!mouseDown && isPressing)
         {
@@ -31,15 +29,16 @@ public class AimingHandler : MonoBehaviour
             Destroy(arrow);
             isPressing = false;
             location.z = 0;
-            var wind = Instantiate(windPrefab, (location + BeginLocation) / 2, Quaternion.LookRotation(Vector3.forward, (location - BeginLocation).normalized), anchor);
-            wind.transform.localScale = new Vector3(1, Vector3.Distance(location, BeginLocation), 1);
+            var wind = Instantiate(windPrefab, (location + beginLocation) / 2, Quaternion.LookRotation(Vector3.forward, (location - beginLocation).normalized), anchor);
+            var distance = Vector3.Distance(location, beginLocation);
+            wind.transform.localScale = new Vector3(distance / 2, distance, 1);
         }
 
         if (!isPressing)
             return;
 
-        arrow.transform.right = (location - BeginLocation).normalized;
-        arrow.transform.position = (location + BeginLocation) / 2;
-        arrow.transform.localScale = Vector3.one * Vector3.Distance(location, BeginLocation);
+        arrow.transform.right = (location - beginLocation).normalized;
+        arrow.transform.position = (location + beginLocation) / 2;
+        arrow.transform.localScale = Vector3.one * Vector3.Distance(location, beginLocation);
     }
 }

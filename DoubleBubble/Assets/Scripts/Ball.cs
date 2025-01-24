@@ -4,8 +4,10 @@ using UnityEngine;
 
 public class Ball : MonoBehaviour
 {
-    [SerializeField] private float sizeDrainRate;
-    [SerializeField] private float gravityGainRate;
+    [SerializeField] private float decreaseRate;
+    [SerializeField] private float increaseRate;
+    [SerializeField] private float gravityMultiplier;
+    [SerializeField] private float dragForce;
 
     private Rigidbody2D body;
 
@@ -16,11 +18,18 @@ public class Ball : MonoBehaviour
 
     private void FixedUpdate()
     {
-        transform.localScale -= sizeDrainRate * Time.fixedDeltaTime * Vector3.one;
+        body.AddForce(Vector2.right * dragForce);
+        transform.localScale -= decreaseRate * Time.fixedDeltaTime * Vector3.one;
         if (transform.localScale.x <= 0)
         {
             Destroy(gameObject);
         }
-        body.gravityScale += gravityGainRate * Time.fixedDeltaTime;
+        body.gravityScale += decreaseRate * gravityMultiplier * Time.fixedDeltaTime;
+    }
+
+    public void Increase()
+    {
+        transform.localScale += increaseRate * Time.fixedDeltaTime * Vector3.one;
+        body.gravityScale -= increaseRate * gravityMultiplier * Time.fixedDeltaTime;
     }
 }
