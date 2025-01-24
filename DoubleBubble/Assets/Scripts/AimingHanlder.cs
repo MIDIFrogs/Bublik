@@ -6,6 +6,8 @@ public class AimingHandler : MonoBehaviour
     [SerializeField] private Wind windPrefab;
     [SerializeField] private Transform anchor;
 
+    private Wind currentWind;
+
     private bool isPressing;
     private Vector3 beginLocation;
     private GameObject arrow;
@@ -17,28 +19,43 @@ public class AimingHandler : MonoBehaviour
         bool mouseDown = Input.GetMouseButton(0);
         if (mouseDown && !isPressing)
         {
-            Debug.Log("Pointer down");
-
-            isPressing = true;
-            beginLocation = location;
-            arrow = Instantiate(arrowPrefab, beginLocation, Quaternion.identity);
+            CreateArrowWireframe(location);
         }
         else if (!mouseDown && isPressing)
         {
-            Debug.Log("Pointer up");
             Destroy(arrow);
             isPressing = false;
-            location.z = 0;
-            var wind = Instantiate(windPrefab, (location + beginLocation) / 2, Quaternion.LookRotation(Vector3.forward, (location - beginLocation).normalized), anchor);
-            var distance = Vector3.Distance(location, beginLocation);
-            wind.transform.localScale = new Vector3(distance / 2, distance, 1);
+            SummonNewWind(location);
         }
 
         if (!isPressing)
             return;
+        UpdateArrowPosition(location);
+    }
 
+    private void CreateArrowWireframe(Vector3 location)
+    {
+        isPressing = true;
+        beginLocation = location;
+        arrow = Instantiate(arrowPrefab, beginLocation, Quaternion.identity);
+    }
+
+    private void UpdateArrowPosition(Vector3 location)
+    {
         arrow.transform.right = (location - beginLocation).normalized;
         arrow.transform.position = (location + beginLocation) / 2;
         arrow.transform.localScale = Vector3.one * Vector3.Distance(location, beginLocation);
+    }
+
+    private void SummonNewWind(Vector3 location)
+    {
+        if (currentWind != null)
+        {
+            Destroy(currentWind.gameObject);
+        }
+        var wind = Instantiate(windPrefab, (location + beginLocation) / 2, Quaternion.LookRotation(Vector3.forward, (location - beginLocation).normalized), anchor);
+        var distance = Vector3.Distance(location, beginLocation);
+        wind.transform.localScale = new Vector3(distance / 2, distance, 1);
+        currentWind = wind;
     }
 }
