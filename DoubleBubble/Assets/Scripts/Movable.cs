@@ -44,9 +44,7 @@ public class Movable : MonoBehaviour
             timeRemaining -= Time.fixedDeltaTime;
             if (timeRemaining <= 0)
             {
-                Debug.Log("Current location is " + nextWaypointIndex);
                 OnNextStep();
-                Debug.Log("Next location selected is " + nextWaypointIndex);
             }
         }
     }
