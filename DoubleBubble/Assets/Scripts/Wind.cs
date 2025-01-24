@@ -9,6 +9,6 @@ public class Wind : MonoBehaviour
     private void OnTriggerStay2D(Collider2D collision)
     {
         Debug.Log("Collision detected");
-        collision.GetComponent<Rigidbody2D>().AddForceAtPosition(transform.right * power, collision.ClosestPoint(transform.position));
+        collision.GetComponent<Rigidbody2D>().AddForceAtPosition(transform.up * power, collision.ClosestPoint(transform.position));
     }
 }
