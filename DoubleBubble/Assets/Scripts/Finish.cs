@@ -8,7 +8,7 @@ public class Finish : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D col)
     {
-        if(col.gameObject.name == "Player") 
+        if(col.gameObject.tag == "Player") 
         {
             winScreen.SetActive(true);
             Time.timeScale = 0f;

@@ -17,7 +17,7 @@ GameObject:
   - component: {fileID: 1737726362417776992}
   m_Layer: 0
   m_Name: Player 1
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31,7 +31,7 @@ Transform:
   m_GameObject: {fileID: 6436325397025153162}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -32.86, y: -10.877, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -172,15 +172,10 @@ MonoBehaviour:
   gravityMultiplier: 0.1
   increaseRate: 0.75
   maxSize: 3
+  player: {fileID: 6436325397025153162}
   LoseScreen: {fileID: 0}
-  isMoving: 0
-  initialSpeed: 0.5
-  acceleration: 0.5
-  targetPosition: {x: -30, y: -10}
-  Player: {fileID: 6436325397025153162}
-  respawnPoint: {fileID: 0}
-  virtualCamera: {fileID: 0}
-  cameraMoveSpeed: 0
+  transitionSpeed: 1
+  targets: []
 --- !u!114 &4971720236945086411
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -206,8 +201,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 894adf289636292448532f8f701b2d0b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isMoving: 0
-  initialSpeed: 2
-  acceleration: 0.5
-  targetPosition: {x: -30, y: -10}
-  Player: {fileID: 0}

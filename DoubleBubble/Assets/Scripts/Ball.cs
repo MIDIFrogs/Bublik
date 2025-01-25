@@ -1,4 +1,5 @@
 using Cinemachine;
+using TMPro;
 using UnityEngine;
 
 public class Ball : MonoBehaviour
@@ -8,8 +9,11 @@ public class Ball : MonoBehaviour
     [SerializeField] private float gravityMultiplier;
     [SerializeField] private float increaseRate;
     [SerializeField] private float maxSize;
+    [SerializeField] private GameObject player;
     [SerializeField] private GameObject LoseScreen;
-    public CinemachineVirtualCamera virtualCamera; 
+    [SerializeField] private float transitionSpeed;
+    public WhenPlayerDied WhenPlayerDied { get; set; }
+
     public Transform[] targets; 
     private int currentTargetIndex = 0;
 
@@ -67,8 +71,9 @@ public class Ball : MonoBehaviour
     }
 
     public void Die()
-    {
+    { 
         Destroy(gameObject);
+        WhenPlayerDied.SpawnPrefab(); 
         //LoseScreen.SetActive(true);
     }
 

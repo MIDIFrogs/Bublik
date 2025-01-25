@@ -3,6 +3,10 @@ using UnityEngine;
 
 public class time : MonoBehaviour
 {
+    private void Awake()
+    {
+        StopTime();
+    }
     public void StopTime() {  Time.timeScale = 0; }
     public void Continue() {  Time.timeScale = 1; }
 }

@@ -55,7 +55,7 @@ public class AimingHandler : MonoBehaviour
         }
         var wind = Instantiate(windPrefab, (location + beginLocation) / 2, Quaternion.LookRotation(Vector3.forward, (location - beginLocation).normalized), anchor);
         var distance = Vector3.Distance(location, beginLocation);
-        wind.transform.localScale = new Vector3(distance / 2, distance, 1);
+        wind.transform.localScale = new Vector3(distance/2, distance, 1);
         currentWind = wind;
     }
 }
