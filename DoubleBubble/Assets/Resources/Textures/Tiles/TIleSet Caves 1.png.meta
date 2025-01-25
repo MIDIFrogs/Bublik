@@ -1,0 +1,1765 @@
+fileFormatVersion: 2
+guid: 35fb1e2d288722e49afd4bcc92562b37
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6347876653981254855
+    second: TIleSet Caves 1_0
+  - first:
+      213: -276678893510558492
+    second: TIleSet Caves 1_1
+  - first:
+      213: -2170669249335480392
+    second: TIleSet Caves 1_2
+  - first:
+      213: 22789186866206081
+    second: TIleSet Caves 1_3
+  - first:
+      213: 8638698121519535340
+    second: TIleSet Caves 1_4
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TIleSet Caves 1_0
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 360
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bb371d0dfc7e7a0800000000000000
+      internalID: -6347876653981254855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 360
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec7473230a092cf0800000000000000
+      internalID: -276678893510558492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 360
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfae7481db30e1e0800000000000000
+      internalID: -2170669249335480392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 360
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18551eb05a6f05000800000000000000
+      internalID: 22789186866206081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 360
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce49107fb22d2e770800000000000000
+      internalID: 8638698121519535340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 360
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d334570a37b83e46b0f11db9a3df5e1
+      internalID: 1775102010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_6
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 360
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1d114fdfe535b438d1aad4a822d1c4
+      internalID: -1345464022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 360
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e28ec2cc3ed28049b6554cb99574b68
+      internalID: -1571285148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e60aacd0d18a64eb92e8641424ee47
+      internalID: -1709639811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf090a75e093f814f8b7a7a03e14d5b2
+      internalID: -1817254350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08177b8da0550d34392076a28d997666
+      internalID: -308738299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64524438eed35f442bcc773979137b42
+      internalID: 316462781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909b891623e29314296786cef6a76fb1
+      internalID: -536260198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cdb2a9de4c14544a79fc83cb965ed7
+      internalID: 1860400474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ad3bf6babcdc6459e61b84f48647be
+      internalID: 1684644472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48e1f70cfef7104d93db268c8da103a
+      internalID: 971094416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_16
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49448794c82d092448ee5ac25f42535f
+      internalID: 637532681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_17
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d7b010ff9d0d742b6b70348a794d06
+      internalID: 1798184119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_18
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255439a211a575141808ca26b4475a37
+      internalID: -1779341651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_19
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d82e5a04455a34d81b57da27a9fd9b
+      internalID: 930313610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a9eb86e496d5e48aa64a2c16b99ab5
+      internalID: -409741158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158b9f34932641d45ac6cbfb73812051
+      internalID: -821211510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31048a5aea4b1974392177621b2ea847
+      internalID: -956297297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf378c70312c09478255ffdd2e4ac64
+      internalID: -1632130908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_24
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a428368a4a5e645928fd52984c93e5
+      internalID: 1484869616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ec11ebacbfdc44caecc3e78dea49ba
+      internalID: 1656747807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_26
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75670bd2a75212f49804a19af4d44d35
+      internalID: -1120131573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e88ca556a6eea40aced752fdc9038a
+      internalID: -1940487626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_28
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0e6dfb9b0d659429827add903c0e04
+      internalID: -1947868065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06414396d53186345837cb8ddce9312e
+      internalID: 1629950497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_30
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fecbb6339a0fd84b817b5a7662fef2f
+      internalID: -941983022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_31
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f366e4c23c7795f458d2b749fab25932
+      internalID: -1737772642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 216
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36088bc5cfac3e546852a91d3ab2cf5c
+      internalID: 1649132486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 216
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4781d49e4d6fed449b9b655a69febcd
+      internalID: 1393571202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 216
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bc0926888117342819f47346247518
+      internalID: -1458238709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 216
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f950e8dd6582b4b867a3b200065ae9
+      internalID: -521099994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_36
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 216
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed92235ed64f85844afcd25f342e8b52
+      internalID: -1602561204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 216
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22eca24dac126f14189a9fb4f775661c
+      internalID: 754912130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_38
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 216
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f50c0015d3b8894ea204f5a6c093c1a
+      internalID: -1828040719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_39
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 216
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dad0a31f93c91a4392b516d471cf7a0
+      internalID: 1005945471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_40
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 216
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cee22d9ac21b7409906cd6721ac09f
+      internalID: 1502125176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_41
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 216
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89278d082a80164c9e4bae21fe5d02f
+      internalID: -1574197719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_42
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 216
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05c761fc9ab9ad4b89381b9d33d0616
+      internalID: -924630862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_43
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 216
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8128361e8c819a4eb2800b849036d28
+      internalID: 905201232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_44
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 168
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c7eada29b9d724ca2e2beb88cd97b6
+      internalID: 1888887832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 168
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c796ae4425063641af2ee4b964a4cfa
+      internalID: 1529102373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 168
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3da8c885c907242a681d723560b895
+      internalID: 745033710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 168
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e261e21a8984bb544adf7d876eeba6eb
+      internalID: 1246267468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_48
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 168
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10574d28ee2883b43a2473ab7c5faa32
+      internalID: -662752493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_49
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 168
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534dd2387c57f354abfcb00baf266cb8
+      internalID: 630758414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_50
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8482dc6be64ff438be6df95ab07f35
+      internalID: 832514510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_51
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4300058be07c2df45875bd37385dca1a
+      internalID: 59640056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_52
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7322b2b52b729445ac8182aea95a9e0
+      internalID: 1414991889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_53
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c037ded4a4769e4c83e28bbec51b6f1
+      internalID: -1489620584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_54
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8c4dc969e87514b999852a84efb461
+      internalID: 1441743535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_55
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673f096f04a10704698adde6b7467252
+      internalID: -1047786741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183e1af77b2cdf843ac74d6c61c7df3c
+      internalID: 1993148683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_57
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eccc68fa95678f45b92d19da0a0c5e7
+      internalID: -1562982348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_58
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f8c92acaf469144b7c11fb3e96b818
+      internalID: 234014009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_59
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f392baf2390b094d83be4e6c280ead8
+      internalID: -1025075941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_60
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73664a65440e2f146aa8bb25824c3572
+      internalID: 1149870857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_61
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41530f2230dbded4f86ac4e63cc82554
+      internalID: -1345699961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_62
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe51adc793deef747a2513365aec55e6
+      internalID: -1802314284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682128145bbb0bb4c89bad65458978a9
+      internalID: -962452413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_64
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150a95849a6d3334b8b3600c543b4deb
+      internalID: 1143877542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_65
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bee44eb312b1e242b63ce3ade20a43d
+      internalID: -598208174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_66
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b549112e0e54c442b4be411956eb31a
+      internalID: 552482132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_67
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18efdee9a7d95e44fab49cd4d7c7f569
+      internalID: 442472361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_68
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb5bf48a460d14469f8efc2119d4d18
+      internalID: -700916420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_69
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a8dd86a5a84a74d9cebddc74a714eb
+      internalID: -1241888632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TIleSet Caves 1_70
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134fe9d5110e3a74d84d71fded1a4d15
+      internalID: -1503845661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4d1c8a1b6fc19654f96587c9606d2211
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TIleSet Caves 1_0: -6347876653981254855
+      TIleSet Caves 1_1: -276678893510558492
+      TIleSet Caves 1_10: -308738299
+      TIleSet Caves 1_11: 316462781
+      TIleSet Caves 1_12: -536260198
+      TIleSet Caves 1_13: 1860400474
+      TIleSet Caves 1_14: 1684644472
+      TIleSet Caves 1_15: 971094416
+      TIleSet Caves 1_16: 637532681
+      TIleSet Caves 1_17: 1798184119
+      TIleSet Caves 1_18: -1779341651
+      TIleSet Caves 1_19: 930313610
+      TIleSet Caves 1_2: -2170669249335480392
+      TIleSet Caves 1_20: -409741158
+      TIleSet Caves 1_21: -821211510
+      TIleSet Caves 1_22: -956297297
+      TIleSet Caves 1_23: -1632130908
+      TIleSet Caves 1_24: 1484869616
+      TIleSet Caves 1_25: 1656747807
+      TIleSet Caves 1_26: -1120131573
+      TIleSet Caves 1_27: -1940487626
+      TIleSet Caves 1_28: -1947868065
+      TIleSet Caves 1_29: 1629950497
+      TIleSet Caves 1_3: 22789186866206081
+      TIleSet Caves 1_30: -941983022
+      TIleSet Caves 1_31: -1737772642
+      TIleSet Caves 1_32: 1649132486
+      TIleSet Caves 1_33: 1393571202
+      TIleSet Caves 1_34: -1458238709
+      TIleSet Caves 1_35: -521099994
+      TIleSet Caves 1_36: -1602561204
+      TIleSet Caves 1_37: 754912130
+      TIleSet Caves 1_38: -1828040719
+      TIleSet Caves 1_39: 1005945471
+      TIleSet Caves 1_4: 8638698121519535340
+      TIleSet Caves 1_40: 1502125176
+      TIleSet Caves 1_41: -1574197719
+      TIleSet Caves 1_42: -924630862
+      TIleSet Caves 1_43: 905201232
+      TIleSet Caves 1_44: 1888887832
+      TIleSet Caves 1_45: 1529102373
+      TIleSet Caves 1_46: 745033710
+      TIleSet Caves 1_47: 1246267468
+      TIleSet Caves 1_48: -662752493
+      TIleSet Caves 1_49: 630758414
+      TIleSet Caves 1_5: 1775102010
+      TIleSet Caves 1_50: 832514510
+      TIleSet Caves 1_51: 59640056
+      TIleSet Caves 1_52: 1414991889
+      TIleSet Caves 1_53: -1489620584
+      TIleSet Caves 1_54: 1441743535
+      TIleSet Caves 1_55: -1047786741
+      TIleSet Caves 1_56: 1993148683
+      TIleSet Caves 1_57: -1562982348
+      TIleSet Caves 1_58: 234014009
+      TIleSet Caves 1_59: -1025075941
+      TIleSet Caves 1_6: -1345464022
+      TIleSet Caves 1_60: 1149870857
+      TIleSet Caves 1_61: -1345699961
+      TIleSet Caves 1_62: -1802314284
+      TIleSet Caves 1_63: -962452413
+      TIleSet Caves 1_64: 1143877542
+      TIleSet Caves 1_65: -598208174
+      TIleSet Caves 1_66: 552482132
+      TIleSet Caves 1_67: 442472361
+      TIleSet Caves 1_68: -700916420
+      TIleSet Caves 1_69: -1241888632
+      TIleSet Caves 1_7: -1571285148
+      TIleSet Caves 1_70: -1503845661
+      TIleSet Caves 1_8: -1709639811
+      TIleSet Caves 1_9: -1817254350
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
