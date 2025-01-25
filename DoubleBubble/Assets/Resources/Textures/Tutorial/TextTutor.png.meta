@@ -1,0 +1,3185 @@
+fileFormatVersion: 2
+guid: 360262c9327be73429e965cb558a58ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7880089053402766850
+    second: TextTutor_0
+  - first:
+      213: -2606922814827786917
+    second: TextTutor_1
+  - first:
+      213: -4403425062751123551
+    second: TextTutor_2
+  - first:
+      213: -2657477728088656675
+    second: TextTutor_3
+  - first:
+      213: -5920345335043295317
+    second: TextTutor_4
+  - first:
+      213: 989681537800639696
+    second: TextTutor_5
+  - first:
+      213: 3920930116488963306
+    second: TextTutor_6
+  - first:
+      213: -3843562479719887834
+    second: TextTutor_7
+  - first:
+      213: 6076912047418021911
+    second: TextTutor_8
+  - first:
+      213: 3074818862428597715
+    second: TextTutor_9
+  - first:
+      213: -727365996008394610
+    second: TextTutor_10
+  - first:
+      213: 3816187077527961202
+    second: TextTutor_11
+  - first:
+      213: 5440769362303848345
+    second: TextTutor_12
+  - first:
+      213: -4327530816479891147
+    second: TextTutor_13
+  - first:
+      213: -1213847644606498212
+    second: TextTutor_14
+  - first:
+      213: -1487755155775465650
+    second: TextTutor_15
+  - first:
+      213: 5307428910769914998
+    second: TextTutor_16
+  - first:
+      213: -1987688808552119689
+    second: TextTutor_17
+  - first:
+      213: -4060933334509380663
+    second: TextTutor_18
+  - first:
+      213: -8212950895836841241
+    second: TextTutor_19
+  - first:
+      213: -1827622771871579133
+    second: TextTutor_20
+  - first:
+      213: 3892877074114792010
+    second: TextTutor_21
+  - first:
+      213: 6262020846531346518
+    second: TextTutor_22
+  - first:
+      213: -597685890067582280
+    second: TextTutor_23
+  - first:
+      213: -7011997746533223950
+    second: TextTutor_24
+  - first:
+      213: 3564033578008981606
+    second: TextTutor_25
+  - first:
+      213: 8159111727625429235
+    second: TextTutor_26
+  - first:
+      213: -3917537976227635064
+    second: TextTutor_27
+  - first:
+      213: -6481181951412326905
+    second: TextTutor_28
+  - first:
+      213: -3754860898611614667
+    second: TextTutor_29
+  - first:
+      213: 7499260788910179613
+    second: TextTutor_30
+  - first:
+      213: -7915375532420209830
+    second: TextTutor_31
+  - first:
+      213: -6388944293394695136
+    second: TextTutor_32
+  - first:
+      213: 3914338064055974875
+    second: TextTutor_33
+  - first:
+      213: -5055197527731395182
+    second: TextTutor_34
+  - first:
+      213: -1452295825865489104
+    second: TextTutor_35
+  - first:
+      213: 2436448910788508057
+    second: TextTutor_36
+  - first:
+      213: 7478011057491726548
+    second: TextTutor_37
+  - first:
+      213: -7534887651472009102
+    second: TextTutor_38
+  - first:
+      213: -975055480196991302
+    second: TextTutor_39
+  - first:
+      213: -1519128970403826483
+    second: TextTutor_40
+  - first:
+      213: 3139725635713418706
+    second: TextTutor_41
+  - first:
+      213: -2054876040574357484
+    second: TextTutor_42
+  - first:
+      213: 4212572853459551913
+    second: TextTutor_43
+  - first:
+      213: 4437940383540511621
+    second: TextTutor_44
+  - first:
+      213: -9030552826220944508
+    second: TextTutor_45
+  - first:
+      213: 5759130147843072341
+    second: TextTutor_46
+  - first:
+      213: -6946889628845922846
+    second: TextTutor_47
+  - first:
+      213: -156468587400040031
+    second: TextTutor_48
+  - first:
+      213: -7784852523470136745
+    second: TextTutor_49
+  - first:
+      213: -7863284427021888150
+    second: TextTutor_50
+  - first:
+      213: -7308557952548286744
+    second: TextTutor_51
+  - first:
+      213: 6076112955727130073
+    second: TextTutor_52
+  - first:
+      213: 7370174606060614212
+    second: TextTutor_53
+  - first:
+      213: 3643546910773923288
+    second: TextTutor_54
+  - first:
+      213: -555509652231177997
+    second: TextTutor_55
+  - first:
+      213: 5607348242172142887
+    second: TextTutor_56
+  - first:
+      213: 8983528654583363586
+    second: TextTutor_57
+  - first:
+      213: -8328794369704191696
+    second: TextTutor_58
+  - first:
+      213: -5602119731352415972
+    second: TextTutor_59
+  - first:
+      213: 390442038165762406
+    second: TextTutor_60
+  - first:
+      213: 4840872907970694565
+    second: TextTutor_61
+  - first:
+      213: 7513770079606521558
+    second: TextTutor_62
+  - first:
+      213: 4015305234627477851
+    second: TextTutor_63
+  - first:
+      213: -7594345530868542510
+    second: TextTutor_64
+  - first:
+      213: -5625463939450345165
+    second: TextTutor_65
+  - first:
+      213: -842895475088177890
+    second: TextTutor_66
+  - first:
+      213: 5939905368779446458
+    second: TextTutor_67
+  - first:
+      213: 3980725727562247177
+    second: TextTutor_68
+  - first:
+      213: -132218554013196295
+    second: TextTutor_69
+  - first:
+      213: -2063768808878051142
+    second: TextTutor_70
+  - first:
+      213: -3959140737544027805
+    second: TextTutor_71
+  - first:
+      213: 6176830298043081351
+    second: TextTutor_72
+  - first:
+      213: 7988671162344385205
+    second: TextTutor_73
+  - first:
+      213: 1946406095907026470
+    second: TextTutor_74
+  - first:
+      213: -142121813680997003
+    second: TextTutor_75
+  - first:
+      213: 3750281954323611840
+    second: TextTutor_76
+  - first:
+      213: 1125547838239583068
+    second: TextTutor_77
+  - first:
+      213: -6023718016163815488
+    second: TextTutor_78
+  - first:
+      213: -8973721199445397752
+    second: TextTutor_79
+  - first:
+      213: -2350316269900447574
+    second: TextTutor_80
+  - first:
+      213: -4148033481806667230
+    second: TextTutor_81
+  - first:
+      213: -7781009916669200827
+    second: TextTutor_82
+  - first:
+      213: 6511458680059775521
+    second: TextTutor_83
+  - first:
+      213: -2198157145767409754
+    second: TextTutor_84
+  - first:
+      213: -3720256888994093495
+    second: TextTutor_85
+  - first:
+      213: -3499699955130961582
+    second: TextTutor_86
+  - first:
+      213: 4118444527450338916
+    second: TextTutor_87
+  - first:
+      213: -5566554951487365544
+    second: TextTutor_88
+  - first:
+      213: 4117533751470236135
+    second: TextTutor_89
+  - first:
+      213: -1602927538449151141
+    second: TextTutor_90
+  - first:
+      213: 3889430375550733826
+    second: TextTutor_91
+  - first:
+      213: 5571432198731393493
+    second: TextTutor_92
+  - first:
+      213: -150607764571118958
+    second: TextTutor_93
+  - first:
+      213: -3462549991532677292
+    second: TextTutor_94
+  - first:
+      213: -5925645674994856617
+    second: TextTutor_95
+  - first:
+      213: 4883686824047135671
+    second: TextTutor_96
+  - first:
+      213: -2841561780491833675
+    second: TextTutor_97
+  - first:
+      213: -5954538861168472971
+    second: TextTutor_98
+  - first:
+      213: 4625993061840923899
+    second: TextTutor_99
+  - first:
+      213: 1935344893461760144
+    second: TextTutor_100
+  - first:
+      213: 2685757425561553330
+    second: TextTutor_101
+  - first:
+      213: 883162504263303223
+    second: TextTutor_102
+  - first:
+      213: 6733114987227229389
+    second: TextTutor_103
+  - first:
+      213: -7361893566350372096
+    second: TextTutor_104
+  - first:
+      213: -961203160872972271
+    second: TextTutor_105
+  - first:
+      213: 415708523782401801
+    second: TextTutor_106
+  - first:
+      213: -4388341223627994547
+    second: TextTutor_107
+  - first:
+      213: 4158585188111619952
+    second: TextTutor_108
+  - first:
+      213: -420467401936180201
+    second: TextTutor_109
+  - first:
+      213: -888458499340201087
+    second: TextTutor_110
+  - first:
+      213: 7172243826641838285
+    second: TextTutor_111
+  - first:
+      213: -6603926702671401817
+    second: TextTutor_112
+  - first:
+      213: -3882841557037207998
+    second: TextTutor_113
+  - first:
+      213: 8646378197005823581
+    second: TextTutor_114
+  - first:
+      213: -9006890478392127645
+    second: TextTutor_115
+  - first:
+      213: 2209312466463445614
+    second: TextTutor_116
+  - first:
+      213: -8760467949490127069
+    second: TextTutor_117
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TextTutor_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 477
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1eb75a1cc44a290800000000000000
+      internalID: -7880089053402766850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 477
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d0451138952dbd0800000000000000
+      internalID: -2606922814827786917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 477
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7caab5c34e3e2c0800000000000000
+      internalID: -4403425062751123551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 477
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd473c2161ebe1bd0800000000000000
+      internalID: -2657477728088656675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 477
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba77a1df845b6dda0800000000000000
+      internalID: -5920345335043295317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 477
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d49e557d1e0cbd00800000000000000
+      internalID: 989681537800639696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_6
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 477
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4a47eba21f96630800000000000000
+      internalID: 3920930116488963306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 477
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cc64ce94ce8aac0800000000000000
+      internalID: -3843562479719887834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 477
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71894ad6f47855450800000000000000
+      internalID: 6076912047418021911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_9
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 473
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd2abbd673fbaa20800000000000000
+      internalID: 3074818862428597715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 477
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80b83afa70e7e5f0800000000000000
+      internalID: -727365996008394610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_11
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 477
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e7d709de1d5f430800000000000000
+      internalID: 3816187077527961202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_12
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 477
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f03f898ee718b40800000000000000
+      internalID: 5440769362303848345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_13
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 477
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531f82196a581f3c0800000000000000
+      internalID: -4327530816479891147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_14
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 477
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5af8cb9ffb872fe0800000000000000
+      internalID: -1213847644606498212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_15
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 477
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e475f3b719e6a5be0800000000000000
+      internalID: -1487755155775465650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 419
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67444117976c7a940800000000000000
+      internalID: 5307428910769914998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_17
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 419
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7724b325f8f4a64e0800000000000000
+      internalID: -1987688808552119689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_18
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 419
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb9604e5aaa4a7c0800000000000000
+      internalID: -4060933334509380663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_19
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 419
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea3bef9cacb50e80800000000000000
+      internalID: -8212950895836841241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_20
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 419
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3040e2ba5caf2a6e0800000000000000
+      internalID: -1827622771871579133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_21
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 419
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4acfd4d217460630800000000000000
+      internalID: 3892877074114792010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_22
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 419
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650879548ca27e650800000000000000
+      internalID: 6262020846531346518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_23
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 419
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2324389d794b7f0800000000000000
+      internalID: -597685890067582280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_24
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 419
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f13c00633160be90800000000000000
+      internalID: -7011997746533223950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_25
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 419
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6603ac8f7adf57130800000000000000
+      internalID: 3564033578008981606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_26
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 419
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f066df23ecfa3170800000000000000
+      internalID: 8159111727625429235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_27
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 419
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88069d477fb12a9c0800000000000000
+      internalID: -3917537976227635064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_28
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 419
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e256d9a573e06a0800000000000000
+      internalID: -6481181951412326905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_29
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 419
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c204528ed04ebc0800000000000000
+      internalID: -3754860898611614667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_30
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 419
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15c10964f9b21860800000000000000
+      internalID: 7499260788910179613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_31
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 419
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53664604efe62290800000000000000
+      internalID: -7915375532420209830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_32
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 419
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c3376e309e557a0800000000000000
+      internalID: -6388944293394695136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_33
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 416
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbb8deeab5825630800000000000000
+      internalID: 3914338064055974875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2952322d1a458d9b0800000000000000
+      internalID: -5055197527731395182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_35
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 303
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035418614a868dbe0800000000000000
+      internalID: -1452295825865489104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_36
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 303
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999bfe0206100d120800000000000000
+      internalID: 2436448910788508057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_37
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 303
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0dc34cf6b37c760800000000000000
+      internalID: 7478011057491726548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_38
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 298
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278988f3a93be6790800000000000000
+      internalID: -7534887651472009102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_39
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 303
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab67f82f438e772f0800000000000000
+      internalID: -975055480196991302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_40
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 303
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc433170048faeae0800000000000000
+      internalID: -1519128970403826483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_41
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 303
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5c2e8a4db829b20800000000000000
+      internalID: 3139725635713418706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_42
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 303
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410ba18d02d9b73e0800000000000000
+      internalID: -2054876040574357484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_43
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 303
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a609e8e0b0167a30800000000000000
+      internalID: 4212572853459551913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_44
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 303
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5830b4ff34bb69d30800000000000000
+      internalID: 4437940383540511621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_45
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 303
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48363bbec080da280800000000000000
+      internalID: -9030552826220944508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_46
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 303
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551ed653b5a8cef40800000000000000
+      internalID: 5759130147843072341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_47
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 303
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e52bc250b0b79f90800000000000000
+      internalID: -6946889628845922846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_48
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 303
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1738516ac14ddf0800000000000000
+      internalID: -156468587400040031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_49
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 303
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a52c530e5a6f390800000000000000
+      internalID: -7784852523470136745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_50
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 303
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65df7f997000e290800000000000000
+      internalID: -7863284427021888150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_51
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 303
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eec00ab349c29a90800000000000000
+      internalID: -7308557952548286744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dda3456a80b25450800000000000000
+      internalID: 6076112955727130073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 245
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442f8de51ce184660800000000000000
+      internalID: 7370174606060614212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_54
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 245
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddc62b6c9a709230800000000000000
+      internalID: 3643546910773923288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_55
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 245
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8b57d1aee6a48f0800000000000000
+      internalID: -555509652231177997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_56
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 242
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725e49a648d41dd40800000000000000
+      internalID: 5607348242172142887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_57
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 245
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208fbfde6b7ebac70800000000000000
+      internalID: 8983528654583363586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_58
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 245
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039128a06ad2a6c80800000000000000
+      internalID: -8328794369704191696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_59
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 245
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11588f19c54142b0800000000000000
+      internalID: -5602119731352415972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_60
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 245
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661ff3e07f02b6500800000000000000
+      internalID: 390442038165762406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_61
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 240
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adc762034c3e2340800000000000000
+      internalID: 4840872907970694565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6deb7e6e316464860800000000000000
+      internalID: 7513770079606521558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_63
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 129
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51ccbe36da39b730800000000000000
+      internalID: 4015305234627477851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_64
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 129
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3510be9f67b9690800000000000000
+      internalID: -7594345530868542510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_65
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 129
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339ea402a565ee1b0800000000000000
+      internalID: -5625463939450345165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_66
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 129
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15c590080f6d44f0800000000000000
+      internalID: -842895475088177890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_67
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 129
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8d8814678ce6250800000000000000
+      internalID: 5939905368779446458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_68
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 129
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c2b9b55f06e3730800000000000000
+      internalID: 3980725727562247177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_69
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 129
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffd357fce34a2ef0800000000000000
+      internalID: -132218554013196295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_70
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 129
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0fa40e3350c53e0800000000000000
+      internalID: -2063768808878051142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_71
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 129
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36109e2c97e4e09c0800000000000000
+      internalID: -3959140737544027805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_72
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 129
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7826ab80e6288b550800000000000000
+      internalID: 6176830298043081351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_73
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 129
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5baa1faa8167dde60800000000000000
+      internalID: 7988671162344385205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_74
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 129
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626713f1806030b10800000000000000
+      internalID: 1946406095907026470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_75
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 129
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57db5b4a6f4170ef0800000000000000
+      internalID: -142121813680997003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_76
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 129
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0440f419dab0430800000000000000
+      internalID: 3750281954323611840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_77
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 129
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5baaf3abcfbe9f00800000000000000
+      internalID: 1125547838239583068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_78
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 129
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf5f6b1164776ca0800000000000000
+      internalID: -6023718016163815488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_79
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 129
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f2aa92d10f67380800000000000000
+      internalID: -8973721199445397752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_80
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 125
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa043c61ecff16fd0800000000000000
+      internalID: -2350316269900447574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222ac7886893f66c0800000000000000
+      internalID: -4148033481806667230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_82
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 71
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546f323d4bc440490800000000000000
+      internalID: -7781009916669200827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_83
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 71
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ac89a9b295d5a50800000000000000
+      internalID: 6511458680059775521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_84
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 71
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a70c06e8b39e71e0800000000000000
+      internalID: -2198157145767409754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_85
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 71
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946ae4af11efe5cc0800000000000000
+      internalID: -3720256888994093495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_86
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 71
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251f7f9de619e6fc0800000000000000
+      internalID: -3499699955130961582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_87
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 71
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46634dd2a77a72930800000000000000
+      internalID: 4118444527450338916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 71
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e57e5b3cf9fb2b0800000000000000
+      internalID: -5566554951487365544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_89
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 71
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1a01f912b642930800000000000000
+      internalID: 4117533751470236135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_90
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 71
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b0c0e75e141c9e0800000000000000
+      internalID: -1602927538449151141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_91
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 71
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ec059c1580af530800000000000000
+      internalID: 3889430375550733826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_92
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 71
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9ee87e014b15d40800000000000000
+      internalID: 5571432198731393493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_93
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 71
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292a25c390fe8edf0800000000000000
+      internalID: -150607764571118958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_94
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 71
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457b9a9c02d82ffc0800000000000000
+      internalID: -3462549991532677292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_95
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 71
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d0a1d67a0e3cda0800000000000000
+      internalID: -5925645674994856617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_96
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 67
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbc595aa4756c340800000000000000
+      internalID: 4883686824047135671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_97
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 71
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be257aad9eb098d0800000000000000
+      internalID: -2841561780491833675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_98
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 71
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c4bca447a3d5da0800000000000000
+      internalID: -5954538861168472971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc23702e24d23040800000000000000
+      internalID: 4625993061840923899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_100
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 13
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09887ac3de9bbda10800000000000000
+      internalID: 1935344893461760144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_101
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 13
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9c677162ab54520800000000000000
+      internalID: 2685757425561553330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 13
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7300f815e9f914c00800000000000000
+      internalID: 883162504263303223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_103
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 13
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcca9854864d07d50800000000000000
+      internalID: 6733114987227229389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_104
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 13
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003d37f6ecc45d990800000000000000
+      internalID: -7361893566350372096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_105
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 13
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1101f2f51de19a2f0800000000000000
+      internalID: -961203160872972271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_106
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 13
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90fe62a23b4e4c500800000000000000
+      internalID: 415708523782401801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_107
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 13
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a437458ea7913c0800000000000000
+      internalID: -4388341223627994547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_108
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 13
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0771899023346b930800000000000000
+      internalID: 4158585188111619952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_109
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 13
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c66fb20233a2af0800000000000000
+      internalID: -420467401936180201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_110
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183962db3bf8ba3f0800000000000000
+      internalID: -888458499340201087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_111
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 13
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0a97992cde88360800000000000000
+      internalID: 7172243826641838285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_112
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 13
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aced8c27a32a54a0800000000000000
+      internalID: -6603926702671401817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_113
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 13
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e2ca11d206d1ac0800000000000000
+      internalID: -3882841557037207998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_114
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 13
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ee632e82b1ef770800000000000000
+      internalID: 8646378197005823581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_115
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 30
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fc69894d8110380800000000000000
+      internalID: -9006890478392127645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_116
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 43
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6255699bfd09ae10800000000000000
+      internalID: 2209312466463445614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextTutor_117
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 9
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f327c90d09c6680800000000000000
+      internalID: -8760467949490127069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TextTutor_0: -7880089053402766850
+      TextTutor_1: -2606922814827786917
+      TextTutor_10: -727365996008394610
+      TextTutor_100: 1935344893461760144
+      TextTutor_101: 2685757425561553330
+      TextTutor_102: 883162504263303223
+      TextTutor_103: 6733114987227229389
+      TextTutor_104: -7361893566350372096
+      TextTutor_105: -961203160872972271
+      TextTutor_106: 415708523782401801
+      TextTutor_107: -4388341223627994547
+      TextTutor_108: 4158585188111619952
+      TextTutor_109: -420467401936180201
+      TextTutor_11: 3816187077527961202
+      TextTutor_110: -888458499340201087
+      TextTutor_111: 7172243826641838285
+      TextTutor_112: -6603926702671401817
+      TextTutor_113: -3882841557037207998
+      TextTutor_114: 8646378197005823581
+      TextTutor_115: -9006890478392127645
+      TextTutor_116: 2209312466463445614
+      TextTutor_117: -8760467949490127069
+      TextTutor_12: 5440769362303848345
+      TextTutor_13: -4327530816479891147
+      TextTutor_14: -1213847644606498212
+      TextTutor_15: -1487755155775465650
+      TextTutor_16: 5307428910769914998
+      TextTutor_17: -1987688808552119689
+      TextTutor_18: -4060933334509380663
+      TextTutor_19: -8212950895836841241
+      TextTutor_2: -4403425062751123551
+      TextTutor_20: -1827622771871579133
+      TextTutor_21: 3892877074114792010
+      TextTutor_22: 6262020846531346518
+      TextTutor_23: -597685890067582280
+      TextTutor_24: -7011997746533223950
+      TextTutor_25: 3564033578008981606
+      TextTutor_26: 8159111727625429235
+      TextTutor_27: -3917537976227635064
+      TextTutor_28: -6481181951412326905
+      TextTutor_29: -3754860898611614667
+      TextTutor_3: -2657477728088656675
+      TextTutor_30: 7499260788910179613
+      TextTutor_31: -7915375532420209830
+      TextTutor_32: -6388944293394695136
+      TextTutor_33: 3914338064055974875
+      TextTutor_34: -5055197527731395182
+      TextTutor_35: -1452295825865489104
+      TextTutor_36: 2436448910788508057
+      TextTutor_37: 7478011057491726548
+      TextTutor_38: -7534887651472009102
+      TextTutor_39: -975055480196991302
+      TextTutor_4: -5920345335043295317
+      TextTutor_40: -1519128970403826483
+      TextTutor_41: 3139725635713418706
+      TextTutor_42: -2054876040574357484
+      TextTutor_43: 4212572853459551913
+      TextTutor_44: 4437940383540511621
+      TextTutor_45: -9030552826220944508
+      TextTutor_46: 5759130147843072341
+      TextTutor_47: -6946889628845922846
+      TextTutor_48: -156468587400040031
+      TextTutor_49: -7784852523470136745
+      TextTutor_5: 989681537800639696
+      TextTutor_50: -7863284427021888150
+      TextTutor_51: -7308557952548286744
+      TextTutor_52: 6076112955727130073
+      TextTutor_53: 7370174606060614212
+      TextTutor_54: 3643546910773923288
+      TextTutor_55: -555509652231177997
+      TextTutor_56: 5607348242172142887
+      TextTutor_57: 8983528654583363586
+      TextTutor_58: -8328794369704191696
+      TextTutor_59: -5602119731352415972
+      TextTutor_6: 3920930116488963306
+      TextTutor_60: 390442038165762406
+      TextTutor_61: 4840872907970694565
+      TextTutor_62: 7513770079606521558
+      TextTutor_63: 4015305234627477851
+      TextTutor_64: -7594345530868542510
+      TextTutor_65: -5625463939450345165
+      TextTutor_66: -842895475088177890
+      TextTutor_67: 5939905368779446458
+      TextTutor_68: 3980725727562247177
+      TextTutor_69: -132218554013196295
+      TextTutor_7: -3843562479719887834
+      TextTutor_70: -2063768808878051142
+      TextTutor_71: -3959140737544027805
+      TextTutor_72: 6176830298043081351
+      TextTutor_73: 7988671162344385205
+      TextTutor_74: 1946406095907026470
+      TextTutor_75: -142121813680997003
+      TextTutor_76: 3750281954323611840
+      TextTutor_77: 1125547838239583068
+      TextTutor_78: -6023718016163815488
+      TextTutor_79: -8973721199445397752
+      TextTutor_8: 6076912047418021911
+      TextTutor_80: -2350316269900447574
+      TextTutor_81: -4148033481806667230
+      TextTutor_82: -7781009916669200827
+      TextTutor_83: 6511458680059775521
+      TextTutor_84: -2198157145767409754
+      TextTutor_85: -3720256888994093495
+      TextTutor_86: -3499699955130961582
+      TextTutor_87: 4118444527450338916
+      TextTutor_88: -5566554951487365544
+      TextTutor_89: 4117533751470236135
+      TextTutor_9: 3074818862428597715
+      TextTutor_90: -1602927538449151141
+      TextTutor_91: 3889430375550733826
+      TextTutor_92: 5571432198731393493
+      TextTutor_93: -150607764571118958
+      TextTutor_94: -3462549991532677292
+      TextTutor_95: -5925645674994856617
+      TextTutor_96: 4883686824047135671
+      TextTutor_97: -2841561780491833675
+      TextTutor_98: -5954538861168472971
+      TextTutor_99: 4625993061840923899
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
