@@ -8,10 +8,12 @@ public class Confirming: MonoBehaviour{
     [SerializeField] private GameObject BackConfirm;
     [SerializeField] private GameObject ButtonConfirm;
     [SerializeField] private string sceneName;
+    [SerializeField] private AudioSource audioSource;
 
     void OnTriggerEnter2D(Collider2D col)
     {
         BackConfirm.SetActive(true);
+        audioSource.Play(); 
         ButtonConfirm.SetActive(true);
         Invoke("TimeStop", 0.2f);
     }

@@ -1,10 +1,14 @@
 using UnityEngine;
+using System;
 
 public class AimingHandler : MonoBehaviour
 {
     [SerializeField] private GameObject arrowPrefab;
     [SerializeField] private Wind windPrefab;
     [SerializeField] private Transform anchor;
+    [SerializeField] private AudioSource au1;
+    [SerializeField] private AudioSource au2;
+    [SerializeField] private AudioSource au3;
 
     private Wind currentWind;
 
@@ -53,6 +57,14 @@ public class AimingHandler : MonoBehaviour
         {
             Destroy(currentWind.gameObject);
         }
+        System.Random random = new System.Random();
+        switch(random.Next(1, 3))
+            {
+            case 1: {au1.Play(); break; }
+            case 2:{ au2.Play(); break; }
+            case 3:{ au3.Play(); break; }
+        }
+
         var wind = Instantiate(windPrefab, (location + beginLocation) / 2, Quaternion.LookRotation(Vector3.forward, (location - beginLocation).normalized), anchor);
         var distance = Vector3.Distance(location, beginLocation);
         wind.transform.localScale = new Vector3(distance/2, distance, 1);
