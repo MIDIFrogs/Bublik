@@ -7,6 +7,7 @@ public class Ball : MonoBehaviour
     [SerializeField] private float gravityMultiplier;
     [SerializeField] private float increaseRate;
     [SerializeField] private float maxSize;
+    [SerializeField] private GameObject LoseScreen; 
 
     private Rigidbody2D body;
     private bool isFrozen;
@@ -61,6 +62,7 @@ public class Ball : MonoBehaviour
     public void Die()
     {
         Destroy(gameObject);
+        LoseScreen.SetActive(true);
     }
 
     public void Increase()
