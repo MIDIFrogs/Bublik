@@ -1,3 +1,4 @@
+using Cinemachine;
 using UnityEngine;
 
 public class Ball : MonoBehaviour
@@ -7,8 +8,14 @@ public class Ball : MonoBehaviour
     [SerializeField] private float gravityMultiplier;
     [SerializeField] private float increaseRate;
     [SerializeField] private float maxSize;
-    [SerializeField] private GameObject LoseScreen; 
+    [SerializeField] private GameObject LoseScreen;
+    public CinemachineVirtualCamera virtualCamera; 
+    public Transform[] targets; 
+    private int currentTargetIndex = 0;
 
+
+    private Rigidbody2D rb;
+    private float currentSpeed;
     private Rigidbody2D body;
     private bool isFrozen;
 
@@ -62,7 +69,7 @@ public class Ball : MonoBehaviour
     public void Die()
     {
         Destroy(gameObject);
-        LoseScreen.SetActive(true);
+        //LoseScreen.SetActive(true);
     }
 
     public void Increase()
