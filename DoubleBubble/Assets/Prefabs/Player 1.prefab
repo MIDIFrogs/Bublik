@@ -18,13 +18,9 @@ GameObject:
   - component: {fileID: -8918398914719727196}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
   - component: {fileID: 345965515973827721}
   - component: {fileID: 8595102401633037440}
   - component: {fileID: 9085807481457303215}
-=======
-  - component: {fileID: 8565666924152227812}
->>>>>>> Stashed changes
 =======
   - component: {fileID: 8565666924152227812}
 >>>>>>> Stashed changes
@@ -319,7 +315,6 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 --- !u!82 &345965515973827721
 AudioSource:
   m_ObjectHideFlags: 0
@@ -611,8 +606,6 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-=======
->>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 --- !u!95 &8565666924152227812
