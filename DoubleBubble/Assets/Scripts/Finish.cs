@@ -8,8 +8,11 @@ public class Finish : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D col)
     {
-        winScreen.SetActive(true);
-        Time.timeScale = 0f;
+        if(col.gameObject.name == "Player") 
+        {
+            winScreen.SetActive(true);
+            Time.timeScale = 0f;
+        }
     }
 
     public void ToNewLvl() {

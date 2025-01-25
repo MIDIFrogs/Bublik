@@ -2979,7 +2979,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: adfe359a42fd8a142bfd5e7493c44a30, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bounceForce: 2
+  bounceForce: 1.5
 --- !u!1 &1668886024
 GameObject:
   m_ObjectHideFlags: 0
@@ -43091,6 +43091,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 3337375025812294172, guid: 303ee5b7c0f4f9149b1a5644830c6387, type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
     - target: {fileID: 6784736630566499380, guid: 303ee5b7c0f4f9149b1a5644830c6387, type: 3}
       propertyPath: LoseScreen
       value: 
@@ -43112,8 +43116,12 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 1046313798384436895, guid: 897322afb819dbe4b96529e7d92d150d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 7.1429677
+      objectReference: {fileID: 0}
+    - target: {fileID: 1046313798384436895, guid: 897322afb819dbe4b96529e7d92d150d, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 52.61
+      value: 52.4831
       objectReference: {fileID: 0}
     - target: {fileID: 1046313798384436895, guid: 897322afb819dbe4b96529e7d92d150d, type: 3}
       propertyPath: m_LocalPosition.y
