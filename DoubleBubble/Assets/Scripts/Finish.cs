@@ -17,6 +17,6 @@ public class Finish : MonoBehaviour
 
     public void ToNewLvl() {
         SceneManager.LoadScene(sceneName);
-        winScreen.SetActive(false);
+        Time.timeScale = 1f;
     }
 }
