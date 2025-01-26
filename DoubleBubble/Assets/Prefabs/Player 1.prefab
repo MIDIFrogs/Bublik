@@ -180,6 +180,7 @@ MonoBehaviour:
   player: {fileID: 6436325397025153162}
   LoseScreen: {fileID: 0}
   transitionSpeed: 1
+  anim: {fileID: 7025936099261976512}
   targets: []
 --- !u!114 &4971720236945086411
 MonoBehaviour:

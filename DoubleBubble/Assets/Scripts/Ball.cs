@@ -12,6 +12,7 @@ public class Ball : MonoBehaviour
     [SerializeField] private GameObject player;
     [SerializeField] private GameObject LoseScreen;
     [SerializeField] private float transitionSpeed;
+    [SerializeField] private Animator anim;
     public WhenPlayerDied WhenPlayerDied { get; set; }
 
     public Transform[] targets; 
@@ -71,9 +72,15 @@ public class Ball : MonoBehaviour
     }
 
     public void Die()
-    { 
+    {
+        anim.SetBool("IsAlive", false);
+        Invoke("Kill", 0.75f);
+    }
+
+    public void Kill()
+    {
         Destroy(gameObject);
-        WhenPlayerDied.SpawnPrefab(); 
+        WhenPlayerDied.SpawnPrefab();
         //LoseScreen.SetActive(true);
     }
 

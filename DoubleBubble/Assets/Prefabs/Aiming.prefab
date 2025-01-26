@@ -51,8 +51,8 @@ MonoBehaviour:
   windPrefab: {fileID: 2794132377117807216, guid: 8d8fce3e990f2274d8cbbf53c3399f4f, type: 3}
   anchor: {fileID: 0}
   au1: {fileID: -5082722128149624049}
-  au2: {fileID: 4635850687770269722}
-  au3: {fileID: -8669606925675509651}
+  au2: {fileID: -5082722128149624049}
+  au3: {fileID: -5082722128149624049}
 --- !u!82 &-5082722128149624049
 AudioSource:
   m_ObjectHideFlags: 0
