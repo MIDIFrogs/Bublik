@@ -69,6 +69,7 @@ public class Movable : MonoBehaviour
                     nextWaypointIndex++;
                     if (nextWaypointIndex >= waypoints.Count)
                     {
+                        gameObject.transform.localScale = new Vector2(-gameObject.transform.localScale.x, gameObject.transform.localScale.y);
                         forward = !forward;
                         nextWaypointIndex--;
                     }
@@ -78,6 +79,10 @@ public class Movable : MonoBehaviour
                     nextWaypointIndex--;
                     if (nextWaypointIndex < 0)
                     {
+                        if (gameObject.transform.localScale.x < 0)
+                        {
+                            gameObject.transform.localScale = new Vector2(-gameObject.transform.localScale.x, gameObject.transform.localScale.y);
+                        }
                         forward = !forward;
                         nextWaypointIndex++;
                     }
