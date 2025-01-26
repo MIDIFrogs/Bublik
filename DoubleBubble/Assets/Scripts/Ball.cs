@@ -23,7 +23,7 @@ public class Ball : MonoBehaviour
     private Rigidbody2D rb;
     private float currentSpeed;
     private Rigidbody2D body;
-    private bool isKilled = true;
+    private bool isDied = false;
 
 
     public float Size
@@ -57,15 +57,20 @@ public class Ball : MonoBehaviour
 
     public void Die()
     {
-        killAudio.Play();
-        anim.SetBool("IsAlive", false);
-        Invoke("Kill", 0.75f);
+        if (!isDied)
+        {
+            isDied = true;
+            killAudio.Play();
+            anim.SetBool("IsAlive", false);
+            Invoke("Kill", 0.75f);
+        }
     }
 
     public void Kill()
     {
         Destroy(gameObject);
         WhenPlayerDied.SpawnPrefab();
+        isDied = false; 
         //LoseScreen.SetActive(true);
     }
 
