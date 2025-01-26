@@ -13,6 +13,7 @@ public class Ball : MonoBehaviour
     [SerializeField] private GameObject LoseScreen;
     [SerializeField] private float transitionSpeed;
     [SerializeField] private Animator anim;
+    [SerializeField] private AudioSource killAudio;
     public WhenPlayerDied WhenPlayerDied { get; set; }
 
     public Transform[] targets; 
@@ -22,17 +23,8 @@ public class Ball : MonoBehaviour
     private Rigidbody2D rb;
     private float currentSpeed;
     private Rigidbody2D body;
-    private bool isFrozen;
+    private bool isKilled = true;
 
-    public bool IsFrozen
-    {
-        get => isFrozen;
-        set
-        {
-            isFrozen = value;
-            UpdateGravity();
-        }
-    }
 
     public float Size
     {
@@ -40,10 +32,6 @@ public class Ball : MonoBehaviour
         set
         {
             transform.localScale = Vector3.one * value;
-            if (!isFrozen)
-            {
-                UpdateGravity();
-            }
         }
     }
 
@@ -54,8 +42,6 @@ public class Ball : MonoBehaviour
 
     public void Burst()
     {
-        if (IsFrozen)
-            return;
         Die();
     }
 
@@ -66,13 +52,12 @@ public class Ball : MonoBehaviour
 
     public void Decrease()
     {
-        if (IsFrozen)
-            return;
         Size -= decreaseRate * Time.fixedDeltaTime;
     }
 
     public void Die()
     {
+        killAudio.Play();
         anim.SetBool("IsAlive", false);
         Invoke("Kill", 0.75f);
     }
@@ -86,8 +71,6 @@ public class Ball : MonoBehaviour
 
     public void Increase()
     {
-        if (IsFrozen)
-            return;
         Size += increaseRate * Time.fixedDeltaTime;
     }
 
@@ -109,21 +92,6 @@ public class Ball : MonoBehaviour
             Burst();
         }
 
-        if (Input.GetKeyDown(KeyCode.F))
-        {
-            IsFrozen = !IsFrozen;
-        }
     }
 
-    private void UpdateGravity()
-    {
-        if (IsFrozen)
-        {
-            body.gravityScale = 1;
-        }
-        else
-        {
-            body.gravityScale = gravityMultiplier * (1 - Size);
-        }
-    }
 }

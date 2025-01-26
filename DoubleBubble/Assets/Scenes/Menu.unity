@@ -635,7 +635,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 557988894}
+      - m_Target: {fileID: 1479740422}
         m_TargetAssemblyTypeName: Confirming, Assembly-CSharp
         m_MethodName: ToNewLvl
         m_Mode: 1
@@ -805,7 +805,7 @@ Camera:
   far clip plane: 1000
   field of view: 34
   orthographic: 1
-  orthographic size: 9.86
+  orthographic size: 9.9
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -830,7 +830,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -32.83, y: -11.3344, z: -11.551353}
+  m_LocalPosition: {x: -32.9, y: -11.396, z: -11.551353}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -972,6 +972,18 @@ MonoBehaviour:
       - m_Target: {fileID: 122430842}
         m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
         m_MethodName: Play
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1100010090}
+        m_TargetAssemblyTypeName: Confirming, Assembly-CSharp
+        m_MethodName: ToNewLvl
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1597,7 +1609,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   BackConfirm: {fileID: 100575030}
   ButtonConfirm: {fileID: 549506382}
-  sceneName: 
+  sceneName: exit
   audioSource: {fileID: 1100010095}
 --- !u!58 &1100010091
 CircleCollider2D:
@@ -1742,8 +1754,8 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: b6a097a12c600e5418fe4e65c9f4d5fc, type: 3}
-  m_Resource: {fileID: 8300000, guid: b6a097a12c600e5418fe4e65c9f4d5fc, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 1e70263596eb4f841b26717a2ca5ded5, type: 3}
+  m_Resource: {fileID: 8300000, guid: 1e70263596eb4f841b26717a2ca5ded5, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -2147,9 +2159,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 1716338023}
+      - m_Target: {fileID: 1716338024}
         m_TargetAssemblyTypeName: time, Assembly-CSharp
-        m_MethodName: 
+        m_MethodName: Continue
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2235,7 +2247,7 @@ Transform:
   m_GameObject: {fileID: 1252083657}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -32.83, y: -10.94, z: -1.4713538}
+  m_LocalPosition: {x: -32.9, y: -11, z: -1.4713538}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2342,6 +2354,18 @@ MonoBehaviour:
       - m_Target: {fileID: 122430842}
         m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
         m_MethodName: Play
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 557988894}
+        m_TargetAssemblyTypeName: Confirming, Assembly-CSharp
+        m_MethodName: ToNewLvl
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2639,9 +2663,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 1716338023}
+      - m_Target: {fileID: 1716338024}
         m_TargetAssemblyTypeName: time, Assembly-CSharp
-        m_MethodName: 
+        m_MethodName: Continue
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2711,10 +2735,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1479740426}
   - component: {fileID: 1479740425}
-  - component: {fileID: 1479740424}
-  - component: {fileID: 1479740423}
   - component: {fileID: 1479740422}
   - component: {fileID: 1479740427}
+  - component: {fileID: 1479740429}
+  - component: {fileID: 1479740428}
   m_Layer: 0
   m_Name: Credits
   m_TagString: Untagged
@@ -2738,69 +2762,6 @@ MonoBehaviour:
   ButtonConfirm: {fileID: 484530750}
   sceneName: Tutorial 1
   audioSource: {fileID: 1479740427}
---- !u!58 &1479740423
-CircleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1479740421}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0.14670043, y: 0.023821073}
-  m_Radius: 1.8506525
---- !u!50 &1479740424
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1479740421}
-  m_BodyType: 2
-  m_Simulated: 0
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &1479740425
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2865,7 +2826,7 @@ Transform:
   m_GameObject: {fileID: 1479740421}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -43.3965, y: -11.3109, z: -8.0947}
+  m_LocalPosition: {x: -43.4, y: -11.3109, z: -8.0947}
   m_LocalScale: {x: 0.8958142, y: 0.8922929, z: 1.0107105}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2881,9 +2842,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 1e70263596eb4f841b26717a2ca5ded5, type: 3}
-  m_Resource: {fileID: 8300000, guid: 1e70263596eb4f841b26717a2ca5ded5, type: 3}
-  m_PlayOnAwake: 1
+  m_audioClip: {fileID: 8300000, guid: b6a097a12c600e5418fe4e65c9f4d5fc, type: 3}
+  m_Resource: {fileID: 8300000, guid: b6a097a12c600e5418fe4e65c9f4d5fc, type: 3}
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -2968,6 +2929,69 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!58 &1479740428
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1479740421}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0.05021499}
+  m_Radius: 1.2259716
+--- !u!50 &1479740429
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1479740421}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1716338023
 GameObject:
   m_ObjectHideFlags: 0
@@ -3220,7 +3244,7 @@ MonoBehaviour:
   m_Follow: {fileID: 1252083658}
   m_Lens:
     FieldOfView: 34
-    OrthographicSize: 9.86
+    OrthographicSize: 9.9
     NearClipPlane: -0.54
     FarClipPlane: 1000
     Dutch: 0
@@ -3246,7 +3270,7 @@ Transform:
   m_GameObject: {fileID: 1833081144}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -32.83, y: -11.3344, z: -11.551353}
+  m_LocalPosition: {x: -32.9, y: -11.396, z: -11.551353}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:

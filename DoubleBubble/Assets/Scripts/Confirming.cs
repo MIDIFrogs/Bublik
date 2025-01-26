@@ -26,8 +26,9 @@ public class Confirming: MonoBehaviour{
     public void ToNewLvl()
     {
         Debug.Log(sceneName);
-        if (sceneName == null)
+        if (sceneName == "exit")
         {
+            Debug.Log("hh");
             Application.Quit();
             BackConfirm.SetActive(false);
             ButtonConfirm.SetActive(false);
