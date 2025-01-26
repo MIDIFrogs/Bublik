@@ -2810,7 +2810,7 @@ TextureImporter:
         serializedVersion: 2
         x: 231
         y: 13
-        width: 31
+        width: 30
         height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2832,7 +2832,7 @@ TextureImporter:
         serializedVersion: 2
         x: 261
         y: 13
-        width: 26
+        width: 25
         height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2852,7 +2852,7 @@ TextureImporter:
       name: TextTutor_109
       rect:
         serializedVersion: 2
-        x: 287
+        x: 286
         y: 13
         width: 30
         height: 36
@@ -2876,7 +2876,7 @@ TextureImporter:
         serializedVersion: 2
         x: 316
         y: 13
-        width: 33
+        width: 32
         height: 44
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2896,7 +2896,7 @@ TextureImporter:
       name: TextTutor_111
       rect:
         serializedVersion: 2
-        x: 349
+        x: 348
         y: 13
         width: 30
         height: 36
@@ -2918,9 +2918,9 @@ TextureImporter:
       name: TextTutor_112
       rect:
         serializedVersion: 2
-        x: 379
+        x: 378
         y: 13
-        width: 25
+        width: 26
         height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
