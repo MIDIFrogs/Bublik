@@ -150,7 +150,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   power: 4
-  lifetime: 3
+  lifetime: 2
   au1: {fileID: 239974727045513310}
   au2: {fileID: 239974727045513310}
   au3: {fileID: 239974727045513310}
