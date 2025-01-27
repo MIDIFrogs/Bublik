@@ -1066,7 +1066,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   BackConfirm: {fileID: 100575030}
   ButtonConfirm: {fileID: 1255838714}
-  sceneName: Lvl 1
+  sceneName: Lvl 0
   audioSource: {fileID: 557988899}
 --- !u!58 &557988895
 CircleCollider2D:
@@ -2354,6 +2354,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   prefab: {fileID: 484535351973935417, guid: 4e9d58e3ab2dff243a61b459036e1dfa, type: 3}
   spawn: {fileID: 1252083657}
+  isSpawnNew: 0
   virtualCamera: {fileID: 0}
 --- !u!1 &1255838714
 GameObject:

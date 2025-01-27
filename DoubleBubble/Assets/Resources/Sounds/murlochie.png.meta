@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      murlochie_0: -6423688497796009567
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

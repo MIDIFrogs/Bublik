@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BubbleFly Affect_0: -1006431143539875494
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

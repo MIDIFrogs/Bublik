@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MonaCeleste 2_0: -8868476419679781264
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

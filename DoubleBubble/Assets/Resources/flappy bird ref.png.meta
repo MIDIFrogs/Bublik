@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      flappy bird ref_0: -850242704181383460
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
