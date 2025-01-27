@@ -20,7 +20,7 @@ public class CrossFade : MonoBehaviour
         float time = 0f;
 
         while (time < crossfadeDuration)
-        {
+        {          
             time += Time.deltaTime;
             float t = time / crossfadeDuration;
 

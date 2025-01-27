@@ -26,8 +26,20 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Lvl 2.unity
     guid: a7f1e1ae2cc4b4e40adeff21e42eaebd
+<<<<<<< Updated upstream
   - enabled: 1
     path: Assets/Scenes/end.unity
     guid: dac8da756c25d8d44baa99b278fefa54
+=======
+<<<<<<< Updated upstream
+=======
+  - enabled: 1
+    path: Assets/Scenes/end.unity
+    guid: dac8da756c25d8d44baa99b278fefa54
+  - enabled: 1
+    path: Assets/Scenes/Kazual.unity
+    guid: 7cd0def22b4ad514a948b0be9fd8f826
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

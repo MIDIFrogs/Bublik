@@ -149,10 +149,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 556ce89123e5ae4469a22ec1dcb0bc93, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< Updated upstream
   power: 4
+<<<<<<< Updated upstream
   lifetime: 2
   au1: {fileID: 239974727045513310}
   au2: {fileID: 239974727045513310}
+=======
+  lifetime: 3
+  au1: {fileID: 401220608804557260}
+  au2: {fileID: -2723191727003177330}
+=======
+  power: 4.5
+  lifetime: 2
+  au1: {fileID: 239974727045513310}
+  au2: {fileID: 239974727045513310}
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
   au3: {fileID: 239974727045513310}
 --- !u!82 &239974727045513310
 AudioSource:

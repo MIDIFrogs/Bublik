@@ -1,6 +1,14 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream:DoubleBubble/Assets/Resources/Textures/BubbleAnimations/Death.meta
 guid: e8db42f6010fe0e41b3fceace2d3b6b1
+=======
+<<<<<<<< Updated upstream:DoubleBubble/Assets/Resources/Textures/BubbleAnimation/Death.meta
+guid: 8f2be88e0b507fb4b9c5dfd38d8007ff
+>>>>>>> Stashed changes:DoubleBubble/Assets/Resources/Textures/BubbleAnimation/Death.meta
 folderAsset: yes
+========
+guid: 7cd0def22b4ad514a948b0be9fd8f826
+>>>>>>>> Stashed changes:DoubleBubble/Assets/Scenes/Kazual.unity.meta
 DefaultImporter:
   externalObjects: {}
   userData: 
