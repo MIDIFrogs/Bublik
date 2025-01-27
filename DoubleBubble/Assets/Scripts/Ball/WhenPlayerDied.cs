@@ -17,6 +17,7 @@ public class WhenPlayerDied : MonoBehaviour
     {
         Ball player = Instantiate(prefab, spawn.transform.position, spawn.transform.rotation);
         player.WhenPlayerDied = this;
-        virtualCamera.Follow = player.transform;
+        if (virtualCamera != null)
+            virtualCamera.Follow = player.transform;
     }
 }
