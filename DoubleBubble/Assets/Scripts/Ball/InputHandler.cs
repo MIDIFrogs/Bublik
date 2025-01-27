@@ -19,6 +19,7 @@ public static class InputHandler
         if (Input.touchCount > 0)
         {
             return Input.GetTouch(0).phase == TouchPhase.Began ||
+                   Input.GetTouch(0).phase == TouchPhase.Moved ||
                    Input.GetTouch(0).phase == TouchPhase.Stationary;
         }
         else

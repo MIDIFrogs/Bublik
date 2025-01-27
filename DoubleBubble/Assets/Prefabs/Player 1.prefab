@@ -174,7 +174,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   decreaseRate: 0.25
-  dragForce: 0.75
+  dragForce: 0
   gravityMultiplier: 0.1
   increaseRate: 0.75
   maxSize: 3
