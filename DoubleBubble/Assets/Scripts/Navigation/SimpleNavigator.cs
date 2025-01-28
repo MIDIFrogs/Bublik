@@ -1,4 +1,6 @@
+using System.Collections;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 namespace MIDIFrogs.Bubble.Navigation
 {
@@ -6,13 +8,16 @@ namespace MIDIFrogs.Bubble.Navigation
 	{
 		[SerializeField] private SceneReference sceneToNavigate;
 
-        private SceneLoader sceneLoader;
+        public void Navigate() => StartCoroutine(BeginLoadScene(sceneToNavigate.sceneName));
 
-        private void Start()
+        public IEnumerator BeginLoadScene(string name)
         {
-            sceneLoader = GameServices.Instance.SceneLoader;
-        }
+            if (SceneManager.GetActiveScene().name == name)
+            {
+                yield break;
+            }
 
-        public void Navigate() => sceneLoader.Load(sceneToNavigate.sceneName);
+            SceneManager.LoadScene(name);
+        }
     }
 }
