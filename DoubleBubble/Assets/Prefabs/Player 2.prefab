@@ -14,7 +14,6 @@ GameObject:
   - component: {fileID: 6244708618022476593}
   - component: {fileID: 484535351973935417}
   - component: {fileID: 4971720236945086411}
-  - component: {fileID: 1737726362417776992}
   - component: {fileID: -8918398914719727196}
   - component: {fileID: -5606486230007640728}
   - component: {fileID: -6516802111089263530}
@@ -180,6 +179,7 @@ MonoBehaviour:
   LoseScreen: {fileID: 0}
   transitionSpeed: 1
   anim: {fileID: 0}
+  killAudio: {fileID: 0}
   targets: []
 --- !u!114 &4971720236945086411
 MonoBehaviour:
@@ -194,22 +194,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bounceForce: 2
-  au1: {fileID: -5606486230007640728}
-  au2: {fileID: -8918398914719727196}
-  au3: {fileID: -6516802111089263530}
-  au4: {fileID: 6474790305887381839}
---- !u!114 &1737726362417776992
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6436325397025153162}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 894adf289636292448532f8f701b2d0b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  clips: []
 --- !u!82 &-8918398914719727196
 AudioSource:
   m_ObjectHideFlags: 0

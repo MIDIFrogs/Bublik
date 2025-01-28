@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Удалить">
+    <Position X="13.114" Y="0.5" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="Навигация по сценам&#xD;&#xA;">
+    <Position X="11.155" Y="0.594" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="С музыкой&#xD;&#xA;">
+    <Position X="9.103" Y="0.606" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="катсцены">
+    <Position X="7.153" Y="0.604" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="левелдизайн&#xD;&#xA;">
+    <Position X="5.281" Y="0.583" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="Управление">
+    <Position X="1.344" Y="0.615" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="Игрок">
+    <Position X="3.49" Y="0.562" Height="0.75" Width="1.7" />
+  </Comment>
+  <Class Name="AimingHandler" Collapsed="true">
+    <Position X="1.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAQAgAAAAAAAAAAAAAgEAAgAAAAAYAQDAAIAAA=</HashCode>
+      <FileName>Assets\Scripts\Ball\AimingHanlder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllFade" Collapsed="true">
+    <Position X="9.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAQAABAEAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Ball\AllFade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ball" Collapsed="true">
+    <Position X="3.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAQkAAAAkABgAAkAAAAAAAIAQWCABABEQBEAAAAAlg=</HashCode>
+      <FileName>Assets\Scripts\Ball\Ball.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bounce" Collapsed="true">
+    <Position X="5.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAQACAAAAAEAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Ball\Bounce.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Confirming" Collapsed="true">
+    <Position X="11.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAEAAAAAAAACAAAAABAAAAAAAEAAEAAAAAAAAAACAAA=</HashCode>
+      <FileName>Assets\Scripts\Ball\Confirming.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CrossFade" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAEAAAAAAAAAAAAAAAEAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Ball\CrossFade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="end" Collapsed="true">
+    <Position X="13.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Ball\end.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageFader" Collapsed="true">
+    <Position X="7.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAAAACCAAAAAAAAAAAgAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Ball\fadeImage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicFadeIn" Collapsed="true">
+    <Position X="9.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACCAAAAAAAAAAAgAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Ball\FadeIn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Finish" Collapsed="true">
+    <Position X="11.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAUAAACAAAAAAAAAAAAAEAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Assets\Scripts\Ball\Finish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IfInWindSound" Collapsed="true">
+    <Position X="9.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Ball\IfInWindSound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputHandler" Collapsed="true">
+    <Position X="1.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAg=</HashCode>
+      <FileName>Assets\Scripts\Ball\InputHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kazual" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Ball\kazual.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Movable" Collapsed="true">
+    <Position X="5.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAoAAAgAEAAAAAAAAAAAAIEIQAUAAAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\Ball\Movable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParallaxBackground" Collapsed="true">
+    <Position X="13.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAQAABKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Ball\ParallaxBackground.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParallaxCamera" Collapsed="true">
+    <Position X="13.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAAAAACAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Ball\ParallaxCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParallaxLayer" Collapsed="true">
+    <Position X="13.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\Scripts\Ball\ParallaxLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="reload" Collapsed="true">
+    <Position X="13.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Ball\reload.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spawn" Collapsed="true">
+    <Position X="3.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAEAAAAAAAAABAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Ball\spawn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Thorn" Collapsed="true">
+    <Position X="5.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Ball\Thorn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="time" Collapsed="true">
+    <Position X="3.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAAAAAAAAAAoAAAAAIAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Ball\time.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WhenPlayerDied" Collapsed="true">
+    <Position X="3.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAEAAAAAAAAAAIBAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Ball\WhenPlayerDied.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wind" Collapsed="true">
+    <Position X="1.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAgBAAAAAAIAAAAAAAAEAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Scripts\Ball\Wind.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="MoveStrategy" Collapsed="true">
+    <Position X="5.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JAAAAAAIAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Ball\Movable.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
