@@ -18,7 +18,7 @@ The game is controlled using the mouse: hold down the LMB at the starting point 
 - Dmitry "@Dexitti" Yakovlev – Artist, Game Designer
 - Alexey "@TWorker" Zhaliy – UI/UX Designer, Level Designer  
 - Daniil "@klumbrik" Kudzoev – Artist, Game Designer  
-- Roman "@rommiッ" Sviridov – Musician  
+- Roman "@rommiッ" Sviridov – Composer, SFX Designer  
 
 ## License
 MIT  
@@ -56,7 +56,7 @@ You can reach us on Telegram at [t.me/jojer_m](https://t.me/jojer_m).
 - Дмитрий "@Dexitti" Яковлев – художник, геймдизайнер
 - Алексей "@TWorker" Жалий – UI/UX дизайнер, level-дизайнер
 - Даниил "@klumbrik" Кудзоев – художник, геймдизайнер
-- Роман "@rommiッ" Свиридов – музыкант
+- Роман "@rommiッ" Свиридов – композитор, SFX-дизайнер
 
 ## Лицензия
 MIT
