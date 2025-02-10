@@ -2433,7 +2433,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: da6ada505e4b933499270f7cbbdd14d4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneToNavigate: {fileID: 11400000, guid: d59075edefaaf8c44bfaccf900ed84ec, type: 2}
+  sceneToNavigate: {fileID: 11400000, guid: 6189e93c126286945924c84d2479a6cf, type: 2}
 --- !u!1 &1716338023
 GameObject:
   m_ObjectHideFlags: 0
