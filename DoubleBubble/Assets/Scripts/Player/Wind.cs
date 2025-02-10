@@ -1,29 +1,22 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Wind : MonoBehaviour
 {
     [SerializeField] private float power;
-    [SerializeField] private float lifetime;
-    [SerializeField] private AudioSource au1;
-    [SerializeField] private AudioSource au2;
-    [SerializeField] private AudioSource au3;
-    bool flag = false;
-    private void FixedUpdate()
+    [SerializeField] private AudioClip[] clips;
+    
+    private AudioSource audioSource;
+
+    private void Start()
     {
-        lifetime -= Time.fixedDeltaTime;
-        if (lifetime < 0)
-        {
-            Destroy(gameObject);
-        }
+        audioSource = GetComponent<AudioSource>();
+        audioSource.PlayOneShot(clips.RandomChoice());
     }
 
     private void OnTriggerStay2D(Collider2D collision)
     {
-        
         collision.GetComponent<Rigidbody2D>().AddForceAtPosition(transform.up * power, collision.ClosestPoint(transform.position));
-        if (collision.TryGetComponent<Ball>(out var ball))
+        if (collision.TryGetComponent<Bubble>(out var ball))
         {
             ball.Increase();
         }

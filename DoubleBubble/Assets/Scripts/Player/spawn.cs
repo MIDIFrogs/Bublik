@@ -1,18 +1,22 @@
-using Unity.VisualScripting;
+using Cinemachine;
 using UnityEngine;
 
-public class spawn : MonoBehaviour
+public class Spawn : MonoBehaviour
 {
-    [SerializeField] private GameObject spawnPlace;
-    [SerializeField] private GameObject spawnF;
-    [SerializeField] private Ball player;
-    private void OnTriggerStay2D(Collider2D collision)
+    [SerializeField] private Bubble prefab;
+    [SerializeField] private GameObject spawn;
+    [SerializeField] private bool spawnOnAwake = false;
+    [SerializeField] private CinemachineVirtualCamera virtualCamera;
+
+    private void Awake()
     {
-        if (collision.tag == "Player")
-        {
-            //spawnF.SetActive(false);
-            //spawnPlace.SetActive(true);
-            spawnPlace.transform.position = spawnF.transform.position;
-        }
+        if (spawnOnAwake) SpawnPrefab();
+    }
+
+    public void SpawnPrefab()
+    {
+        Bubble player = Instantiate(prefab, spawn.transform.position, spawn.transform.rotation);
+        if (virtualCamera != null)
+            virtualCamera.Follow = player.transform;
     }
 }
